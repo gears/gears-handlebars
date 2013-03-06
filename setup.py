@@ -8,7 +8,7 @@ def read(filename):
 
 setup(
     name='gears-handlebars',
-    version='0.1.3',
+    version='0.1.4',
     url='https://github.com/gears/gears-handlebars',
     license='ISC',
     author='Mike Yumatov',
