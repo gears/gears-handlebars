@@ -4,7 +4,7 @@ gears-handlebars
 Handlebars_ compiler for Gears_. This package already includes the Handlebars
 source code for you, so you don't need to worry about installing it yourself.
 
-Bundled Handlebars version: **1.0.7**
+Bundled Handlebars version: **1.0.12**
 
 Installation
 ------------
